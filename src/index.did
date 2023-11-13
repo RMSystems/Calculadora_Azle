@@ -1,0 +1,8 @@
+service: () -> {
+    Adicion: (nat) -> ();
+    Division: (nat) -> ();
+    Multiplicacion: (nat) -> ();
+    Reset: () -> ();
+    Resultado: () -> (nat) query;
+    Sustraccion: (nat) -> ();
+}

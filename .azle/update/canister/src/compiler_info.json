@@ -1,0 +1,1 @@
+{"canister_methods":{"queries":[{"name":"Resultado","composite":false}],"updates":[{"name":"Adicion"},{"name":"Sustraccion"},{"name":"Multiplicacion"},{"name":"Division"},{"name":"Reset"}],"callbacks":{}}}
